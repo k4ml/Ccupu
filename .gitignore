@@ -1,0 +1,9 @@
+.installed.cfg
+bin/*
+ccupu.db
+parts
+develop-eggs
+log
+*.pyc
+*.orig
+*.rej
